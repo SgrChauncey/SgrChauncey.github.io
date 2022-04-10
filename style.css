@@ -2,6 +2,10 @@ a:hover{
   color:green
 }
 
+<div class="body">
+  <span class="header"></span>
+<span class="main"></span><span class="footer"></span>
+</div>
 
 body{
   display: flex;
