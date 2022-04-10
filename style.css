@@ -5,6 +5,9 @@ a:hover{
 
 body{
   display: flex;
+}
+
+header main footer{
   flex-direction: column;
 }
 
