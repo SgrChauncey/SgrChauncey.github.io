@@ -2,22 +2,28 @@ a:hover{
   color:green
 }
 
-.body
+<div class="container">
+	<div class="item item1">item1</div>
+	<div class="item item2">item2</div>
+	<div class="item item3">item3</div>
+</div>
+
+body
 {
   display: flex;
   flex-direction: column;
 }
 
-.main
+main
 {
   display:flex;
   flex: auto;
 }
 
-.aside{
+aside{
   flex:1;
 }
 
-.article{
+article{
   flex:3;
 }
