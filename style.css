@@ -37,9 +37,9 @@ aside{
 }
 
 .row{
-  flex-basis: 100%;
-  display:flex;
-}
+  	display:flex;
+	flex-basis: 100%;
+	｝
 
 header {
     height: 240px;
