@@ -8,9 +8,8 @@ targetImage.addEventListener("click", function() {
 }
 
 });// 你的所有代码都应该写在这里
-});
 
-document.addEventListener("DOMContentLoaded", function(event) {
+
 	// 第一张图片
     let targetImage1 = document.querySelector("#smart-image1");
 	targetImage1.addEventListener("click", function() {
@@ -54,3 +53,4 @@ document.addEventListener("DOMContentLoaded", function(event) {
 		    targetImage4.classList.add("small");
 		} 
 	});
+});
