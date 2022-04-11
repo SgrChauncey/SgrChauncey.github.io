@@ -20,8 +20,15 @@ aside{
        border: 2px solid black;
 }
 
-.BGM{
-  align-self:flex-end;
+
+.box {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.row{
+  flex-basis: 100%;
+  display:flex;
 }
 
 header {
