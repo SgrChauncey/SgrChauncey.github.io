@@ -22,16 +22,13 @@ aside{
 }
 
 #dh{
-	color: #555555;
-	height: 130;
-	width: 235px;
 	font-size: 21px;
 	display: flex;
 	align-items: center;
 	border-style:solid solid solid solid;
-	border-width: 2px;
+	border-width: 5px;
 	border-radius: 5px;
-	border-color: #114656;
+	border-color: #F8F8F8;
 }
 
 #hb{text-align: center;
