@@ -22,7 +22,7 @@ aside{
 }
 
 
-.box {
+div.box {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -30,7 +30,7 @@ aside{
 
 
 
-.row{
+div.row{
   	display:flex;
 	flex-basis: 100%;
 	｝
