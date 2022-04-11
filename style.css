@@ -28,13 +28,7 @@ aside{
   justify-content: center;
 }
 
-.box{
-	text-align: center;
-	border-style:solid solid solid solid;
-	border-width: 5px;
-	border-radius: 5px;
-	border-color: #114656;
-}
+
 
 .row{
   	display:flex;
