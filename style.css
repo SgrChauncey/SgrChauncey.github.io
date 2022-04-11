@@ -20,6 +20,10 @@ aside{
        color:#00FFFF;border: 2px solid black;
 }
 
+header{
+background-position:center;
+       background-size: cover;
+       color:#00FFFF;border: 2px solid black;}
 article{
   flex:3;
   background: #FAFAFA;
