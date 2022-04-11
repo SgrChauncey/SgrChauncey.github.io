@@ -14,7 +14,10 @@ main{
 }
 
 aside{
-  flex:1;
+  flex:1;background-image:url('https://freenaturestock.com/wp-content/uploads/freenaturestock-1812-1024x1536.jpg');
+       background-position:center;
+       background-size: cover;
+       color:#00FFFF;border: 2px solid black;
 }
 
 article{
