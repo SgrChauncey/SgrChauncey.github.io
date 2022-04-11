@@ -21,7 +21,7 @@ aside{
        border: 2px solid black;
 }
 
-#dh{
+#dh,#dh1{
 	font-size: 21px;
 	display: flex;
 	align-items: center;
