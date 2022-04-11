@@ -21,6 +21,17 @@ aside{
        border: 2px solid black;
 }
 
+div.box {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+div.row{
+  	display:flex;
+	flex-basis: 100%;
+	｝
+
 header {
     height: 240px;
 }
