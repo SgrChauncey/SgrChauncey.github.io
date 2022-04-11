@@ -1,16 +1,5 @@
 document.addEventListener("DOMContentLoaded", function(event) {
-let targetImage = document.querySelector("#smart-image");  
-targetImage.addEventListener("click", function() {
-  if (targetImage.classList.contains("small")) {
-  targetImage.classList.remove("small");  // ...
-} else {
-  targetImage.classList.add("small");  // ...
-}
-
-});// 你的所有代码都应该写在这里
-
-
-	// 第一张图片
+	// 第一张图片↓
     let targetImage1 = document.querySelector("#smart-image1");
 	targetImage1.addEventListener("click", function() {
 		
@@ -21,7 +10,7 @@ targetImage.addEventListener("click", function() {
 		} 
 	});
 	
-	// 第二张图片
+	// 第二张图片↓
 	let targetImage2 = document.querySelector("#smart-image2");
 	targetImage2.addEventListener("click", function() {
 		
@@ -32,7 +21,7 @@ targetImage.addEventListener("click", function() {
 		} 
 	});
 	
-	// 第三张图片
+	// 第三张图片↓
 	let targetImage3 = document.querySelector("#smart-image3");
 	targetImage3.addEventListener("click", function() {
 		
@@ -43,7 +32,7 @@ targetImage.addEventListener("click", function() {
 		} 
 	});
 	
-	// 第四张图片
+	// 第四张图片↓
 	let targetImage4 = document.querySelector("#smart-image4");
 	targetImage4.addEventListener("click", function() {
 		
