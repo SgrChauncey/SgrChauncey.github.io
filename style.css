@@ -13,14 +13,11 @@ main{
   flex: auto;
 }
 
-article {
-    background: #FAFAFA;
-}
-
 aside{
   flex:1;
 }
 
 article{
   flex:3;
+  background: #FAFAFA;
 }
